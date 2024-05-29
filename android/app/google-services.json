@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "679426299954",
+    "project_id": "elite-soft-dd529",
+    "storage_bucket": "elite-soft-dd529.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679426299954:android:4b04b4aac199027766042b",
+        "android_client_info": {
+          "package_name": "com.elite.soft"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvCpqq7qgE6ABOuc8YGlVg5FOuzTrEOqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679426299954:android:15b5455cdd8da71766042b",
+        "android_client_info": {
+          "package_name": "com.elitesoft.logintask.elite_soft_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvCpqq7qgE6ABOuc8YGlVg5FOuzTrEOqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
